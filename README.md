@@ -1,11 +1,11 @@
 # Les Inséparables
 
-Version 160 (11.10.2026). À installer une fois ; ensuite, le jeu se met à jour tout seul
+Version 162 (11.10.2026). À installer une fois ; ensuite, le jeu se met à jour tout seul
 depuis l'écran titre (« Mise à jour disponible », puis « Installer »).
 
-- **Windows** : [LesInseparables-Windows.zip](https://gofile.io/d/Astjy6MX). Décompressez-le et lancez `LesInseparables.exe`
+- **Windows** : [LesInseparables-Windows.zip](https://gofile.io/d/MT3oxigj). Décompressez-le et lancez `LesInseparables.exe`
   (si Windows s'inquiète : « Informations complémentaires », puis « Exécuter quand même »).
-- **Mac** : [LesInseparables-macOS.zip](https://gofile.io/d/jZwJ0D5b). Décompressez-le, glissez l'app dans Applications,
+- **Mac** : [LesInseparables-macOS.zip](https://gofile.io/d/9Pz8Qpoh). Décompressez-le, glissez l'app dans Applications,
   puis clic droit sur l'app, « Ouvrir » (ou Réglages Système, Confidentialité et sécurité,
   « Ouvrir quand même »).
 
