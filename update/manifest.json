@@ -1,35 +1,19 @@
 {
-  "build": 164,
-  "base": 162,
-  "base_commit": "a20ed4ca3b62c9c8428eb7a49269759b1e12ee51",
-  "commit": "3f371b6",
+  "build": 165,
+  "base": 165,
+  "base_commit": "ebca74c24d30fa91aaa6e589dad5c8251f728bc0",
+  "commit": "ebca74c",
   "godot": "4.7.2",
-  "date": "2026-10-12T20:38:00Z",
+  "date": "2026-10-12T21:20:12Z",
   "page": "https://github.com/goldgamerzelvac-lab/les-inseparables#readme",
   "full": {
-    "windows": "https://gofile.io/d/MT3oxigj",
-    "macos": "https://gofile.io/d/9Pz8Qpoh"
+    "windows": "https://gofile.io/d/nF7nxzb3",
+    "macos": "https://gofile.io/d/jDsCuhtT"
   },
   "windows": {
-    "file": "patch-164-windows.pck",
-    "size": 313746072,
-    "sha256": "ebabfb037c30d0ba7e9d9bc849cf06c37c2f278223b33fefddbe046baa047e37",
-    "parts": [
-      "patch-164-windows.pck.000",
-      "patch-164-windows.pck.001",
-      "patch-164-windows.pck.002",
-      "patch-164-windows.pck.003"
-    ]
+    "file": ""
   },
   "macos": {
-    "file": "patch-164-macos.pck",
-    "size": 308419936,
-    "sha256": "7d0e5e9e79d15f89cc5bd33cfa2be02d01e1a994fac0fda884f6849092fca60e",
-    "parts": [
-      "patch-164-macos.pck.000",
-      "patch-164-macos.pck.001",
-      "patch-164-macos.pck.002",
-      "patch-164-macos.pck.003"
-    ]
+    "file": ""
   }
 }
